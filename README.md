@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Software Engineer
 - 📍 Currently located in NYC
+- What I'm currently working on: https://github.com/team-toucan/fec
 
 ## 🔧 Technologies & Tools:
 
