@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:orichh@gmail.com)
 [![GitHub](https://img.shields.io/badge/richardhyesungo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/richardhyesungo)](https://github.com/richardhyesungo)
 
-- 👨‍💻 Software Engineer
+- 👨‍💻 Software engineering student attending Hack Reactor's immersive program. Expected to graduate at the end of Dec. 2021
 - 📍 Currently located in NYC
 - What I'm working on right now: https://github.com/team-toucan/fec
 
