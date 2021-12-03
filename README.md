@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Software engineering student attending Hack Reactor's immersive program. Expected to graduate at the end of Dec. 2021
 - 📍 Currently located in NYC
-- What I'm working on right now: https://github.com/HRNYC39-SDC-Onyx/SDC-QA
+- What I'm working on right now:
+- 1. https://github.com/HRNYC39-SDC-Onyx/SDC-QA
+- 2. https://github.com/richardhyesungo/decide_for_me
 - Past projects: https://github.com/team-toucan/fec
 
 ## 🔧 Technologies & Tools:
