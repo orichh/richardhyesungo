@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Software engineering student attending Hack Reactor's immersive program. Expected to graduate at the end of Dec. 2021
 - 📍 Currently located in NYC
-- What I'm working on right now:
-- 1. https://github.com/HRNYC39-SDC-Onyx/SDC-QA
-- 2. https://github.com/richardhyesungo/decide_for_me
-- Past projects: https://github.com/team-toucan/fec
+- Recent Applications:
+- 1. https://github.com/richardhyesungo/charity-donation-exchange
+- 2. https://github.com/richardhyesungo/SDC-QA
+- 3. https://github.com/richardhyesungo/decide_for_me
+- 4. https://github.com/richardhyesungo/fec
 
 ## 🔧 Technologies & Tools:
 
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
-![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
 
 ### **Back End:**
 
