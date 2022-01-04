@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:orichh@gmail.com)
 [![GitHub](https://img.shields.io/badge/richardhyesungo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/richardhyesungo)](https://github.com/richardhyesungo)
 
-- 👨‍💻 Software engineering student attending Hack Reactor's immersive program. Expected to graduate at the end of Dec. 2021
+- 👨‍💻 Full-stack software engineer recently graduated from Hack Reactor's immersive program as of December 2021.
 - 📍 Currently located in NYC
+- 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or email.
 - Recent Applications:
-- 1. https://github.com/richardhyesungo/charity-donation-exchange
-- 2. https://github.com/richardhyesungo/SDC-QA
-- 3. https://github.com/richardhyesungo/decide_for_me
-- 4. https://github.com/richardhyesungo/fec
+  1. https://github.com/richardhyesungo/charity-donation-exchange
+  2. https://github.com/richardhyesungo/SDC-QA
+  3. https://github.com/richardhyesungo/decide_for_me
+  4. https://github.com/richardhyesungo/fec
 
 ## 🔧 Technologies & Tools:
 
