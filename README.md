@@ -9,8 +9,9 @@
 - 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or email.
 - What I'm currently working on:
   1. https://github.com/richardhyesungo/interview_prep
-  2. https://github.com/richardhyesungo/react-native
-  3. https://github.com/richardhyesungo/websockets
+  2. https://github.com/richardhyesungo/graphql
+  3. https://github.com/richardhyesungo/react-native
+  4. https://github.com/richardhyesungo/websockets
 - Recent Applications:
   1. https://github.com/richardhyesungo/charity-donation-exchange
   2. https://github.com/richardhyesungo/SDC-QA
