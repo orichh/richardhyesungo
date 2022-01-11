@@ -1,20 +1,5 @@
 # Hi there! 👋
 
-<!--
-**richardhyesungo/richardhyesungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardhyesungo)
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:orichh@gmail.com)
 [![GitHub](https://img.shields.io/badge/richardhyesungo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/richardhyesungo)](https://github.com/richardhyesungo)
@@ -22,6 +7,10 @@ Here are some ideas to get you started:
 - 👨‍💻 Full-stack software engineer recently graduated from Hack Reactor's immersive program as of December 2021.
 - 📍 Currently located in NYC
 - 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or email.
+- What I'm currently working on:
+  1. https://github.com/richardhyesungo/interview_prep
+  2. https://github.com/richardhyesungo/react-native
+  3. https://github.com/richardhyesungo/websockets
 - Recent Applications:
   1. https://github.com/richardhyesungo/charity-donation-exchange
   2. https://github.com/richardhyesungo/SDC-QA
