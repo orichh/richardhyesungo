@@ -7,14 +7,16 @@
 - 👨‍💻 Full-stack software engineer recently graduated from Hack Reactor's immersive program as of December 2021.
 - 📍 Currently located in NYC
 - 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or email.
-- What I'm currently working on:
+
+### What I'm currently working on:
   1. https://github.com/richardhyesungo/interview_prep (leetcode, JS fundamentals, typescript, whiteboarding)
   2. https://github.com/richardhyesungo/react-native (got basic app working)
   3. https://github.com/richardhyesungo/betting-dapp (still in research phase)
   4. https://github.com/richardhyesungo/graphql (haven't started yet, but learned a bit of apollo client)
   5. https://github.com/richardhyesungo/websockets (haven't started yet)
   6. https://github.com/richardhyesungo/recommend-and-review (haven't started yet)
-- Recent Applications:
+ 
+### Recent Applications:
   1. https://github.com/richardhyesungo/charity-donation-exchange (team of 5, I created the REST API, load-tested, scaled on AWS)
   2. https://github.com/richardhyesungo/SDC-QA (systems-design app, REST API and postgres db, processed 15m+ records, scaled)
   3. https://github.com/richardhyesungo/decide_for_me (2-day MVP sprint)
