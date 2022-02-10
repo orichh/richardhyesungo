@@ -6,7 +6,7 @@
 
 - 👨‍💻 Full-stack software engineer recently graduated from Hack Reactor's immersive program as of December 2021
 - 📍 Currently located in NYC
-- 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or email
+- 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or via email
 - 📝 Devout practitioner of the oxford comma
 
 ## I ❤️ wireframing & systems design!
