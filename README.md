@@ -14,11 +14,11 @@ https://gist.github.com/richardhyesungo/29039e25ea0fc0332d9dab677b941a66
 
 ## What I'm currently working on / learning:
   1. https://github.com/richardhyesungo/interview_prep (leetcode, JS fundamentals, typescript, whiteboarding)
-  2. https://github.com/richardhyesungo/react-native (got basic app working)
-  3. https://github.com/richardhyesungo/betting-dapp (still in research phase)
-  4. https://github.com/richardhyesungo/graphql (haven't started yet, but learned a bit of apollo client)
-  5. https://github.com/richardhyesungo/websockets (haven't started yet)
-  6. https://github.com/richardhyesungo/recommend-and-review (haven't started yet)
+  2. https://github.com/richardhyesungo/recommend-and-review (personal project, still in the works)
+  3. https://github.com/richardhyesungo/react-native (got basic app working)
+  4. https://github.com/richardhyesungo/betting-dapp (still in research phase)
+  5. https://github.com/richardhyesungo/graphql (haven't started yet, but learned a bit of apollo client)
+  6. https://github.com/richardhyesungo/websockets (haven't started yet)
  
 ## Recent Applications:
   1. https://github.com/richardhyesungo/charity-donation-exchange (team of 5, I created the REST API, load-tested, scaled on AWS)
