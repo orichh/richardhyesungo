@@ -4,28 +4,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:orichh@gmail.com)
 [![GitHub](https://img.shields.io/badge/richardhyesungo%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/richardhyesungo)](https://github.com/richardhyesungo)
 
-- 👨‍💻 Full-stack software engineer recently graduated from Hack Reactor's immersive program as of December 2021
+- 👨‍💻 Software engineer at SGSI in Seattle, WA. Recently graduated from Hack Reactor's immersive program as of December 2021
 - 📍 Currently located in NYC
-- 💼 Actively looking for employment opportunities! Happy to speak either here, LinkedIn, or via email
 - 📝 Devout practitioner of the oxford comma
-
-## I ❤️ wireframing & systems design!
-https://gist.github.com/richardhyesungo/29039e25ea0fc0332d9dab677b941a66
-
-## What I'm currently working on / learning:
-  1. https://github.com/richardhyesungo/interview_prep (leetcode, JS fundamentals, typescript, whiteboarding)
-  2. https://github.com/richardhyesungo/recommend-and-review (personal project, still in the works)
-  3. https://github.com/richardhyesungo/react-native (got basic app working)
-  4. https://github.com/richardhyesungo/betting-dapp (still in research phase)
-  5. https://github.com/richardhyesungo/graphql (haven't started yet, but learned a bit of apollo client)
-  6. https://github.com/richardhyesungo/websockets (haven't started yet)
  
-## Recent Applications:
-  1. https://github.com/richardhyesungo/charity-donation-exchange (team of 5, I created the REST API, load-tested, scaled on AWS)
-  2. https://github.com/richardhyesungo/SDC-QA (systems-design app, REST API and postgres db, processed 15m+ records, scaled)
-  3. https://github.com/richardhyesungo/decide_for_me (2-day MVP sprint)
-  4. https://github.com/richardhyesungo/fec (team of 4, front-end-focused app, created photo carousel and other components)
-
 ## 🔧 Technologies & Tools:
 
 ### **Languages:**
